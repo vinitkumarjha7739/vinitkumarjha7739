@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Vinit Kumar Jha
 
-<!--
-**vinitkumarjha7739/vinitkumarjha7739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Full Stack Java Developer passionate about building web applications with Java, Spring Boot, and React.
 
-Here are some ideas to get you started:
+🌱 Currently learning advanced Java frameworks and improving my front-end skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:**
+- 📧 Email: [vinitkumarjha7739@gmail.com](mailto:vinitkumarjha7739@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vinit-kumar-jha](https://linkedin.com/in/vinit-kumar-jha)
+- 🐙 GitHub: [github.com/vinitkumarjha7739](https://github.com/vinitkumarjha7739)
+
+⚡ **Fun fact:** I love solving coding challenges and exploring new technologies!
+
+![Vinit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitkumarjha7739&show_icons=true&theme=tokyonight)
